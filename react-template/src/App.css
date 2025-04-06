@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #f8f8f8;
+  padding: 20px;
+  color: #333;
+}
+
+nav {
+  padding: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+  min-height: calc(100vh - 160px);
+}
+
+footer {
+  padding: 10px;
+  background-color: #f8f8f8;
+  font-size: 14px;
+  color: #666;
+}
