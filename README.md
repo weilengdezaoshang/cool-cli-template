@@ -1,11 +1,3 @@
-<!--
- * @Author: chenGuoFeng chenguofeng@xk.design
- * @Date: 2025-04-06 12:02:56
- * @LastEditors: chenGuoFeng chenguofeng@xk.design
- * @LastEditTime: 2025-04-06 12:39:52
- * @FilePath: /cool-cli-template/README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # cool-cli-template
 cool-cli各个技术栈的模板仓库
 
