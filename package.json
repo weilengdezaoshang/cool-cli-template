@@ -1,0 +1,30 @@
+{
+  "name": "wldzs-cli-template",
+  "version": "0.1.1",
+  "description": "多种前端技术栈项目模板集合，用于cool-ui-cli工具",
+  "keywords": [
+    "template",
+    "vue",
+    "react",
+    "next",
+    "nuxt",
+    "cool-ui"
+  ],
+  "author": "wldzs <910843376@qq.com>",
+  "license": "MIT",
+  "files": [
+    "vue2-template",
+    "vue3-template",
+    "react-template",
+    "next-template",
+    "nuxt-template",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wldzs/cool-cli-template.git"
+  },
+  "scripts": {
+    "publish": "npm publish"
+  }
+} 
